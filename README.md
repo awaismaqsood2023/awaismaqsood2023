@@ -1,5 +1,5 @@
 # 💫 About Me:
-YouTube Channel: [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gladiatorsverse9062)<br>I am having 7+ years of experience with proficiency in NFT Marketplace | Smart Contract Development | Blockchain Development | IGO | Cryptocurrency | Smart Contract Audits | Public & Private Blockchain | dApps.<br>Highly proficient in NFT projects(NFT Marketplace, NFT Staking, NFT Games) and DeFi projects(AMM, Farm, Vault, Swap, Lend / Borrow). I evaluate, develop and maintain the blockchain and Cryptocurrency related products.<br><br>"You think IT. I build IT !"
+YouTube Channel: [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gladiatorsverse9062)<br>I am having 10+ years of experience with proficiency in NFT Marketplace | Smart Contract Development | Blockchain Development | IGO | Cryptocurrency | Smart Contract Audits | Public & Private Blockchain | dApps.<br>Highly proficient in NFT projects(NFT Marketplace, NFT Staking, NFT Games) and DeFi projects(AMM, Farm, Vault, Swap, Lend / Borrow). I evaluate, develop and maintain the blockchain and Cryptocurrency related products.<br><br>"You think IT. I build IT !"
 
 
 ## 🌐 Socials:
